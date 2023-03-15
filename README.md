@@ -1,3 +1,7 @@
+### Open Source:
+
+[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=DWolf-19&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Languages / Frameworks:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
