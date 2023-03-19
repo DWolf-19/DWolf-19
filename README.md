@@ -1,8 +1,11 @@
-### Open Source:
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DWolf-19&theme=dark)
 
-[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=DWolf-19&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+# Open Source
 
-### Languages / Frameworks:
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DWolf-19&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DWolf-19&theme=dark)
+
+# Languages / Frameworks
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -17,7 +20,7 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
-### Technologies:
+# Technologies
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
