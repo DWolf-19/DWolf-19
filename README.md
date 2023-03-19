@@ -1,5 +1,3 @@
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DWolf-19&theme=dark)
-
 # Open Source
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DWolf-19&theme=dark)
