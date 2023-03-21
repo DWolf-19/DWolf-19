@@ -1,7 +1,6 @@
 # Open Source
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DWolf-19&theme=dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DWolf-19&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DWolf-19&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 # Languages / Frameworks
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
