@@ -1,8 +1,8 @@
 ### Stats
-![Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DWolf-19&theme=transparent)
+![Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DWolf-19&theme=tokyonight)
 
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DWolf-19&theme=transparent)
-![Commit Langs](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DWolf-19&theme=transparent)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DWolf-19&theme=tokyonight)
+![Commit Langs](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DWolf-19&theme=tokyonight)
 
 ### Skills
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
