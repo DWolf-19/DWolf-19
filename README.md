@@ -34,5 +34,5 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-> **Important**
+> [!IMPORTANT]
 > Don't email me with ads, spam, marketing offers, surveys and other stuff. My public email is created for important things.
