@@ -1,9 +1,3 @@
-### Stats
-![Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DWolf-19&theme=tokyonight)
-
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DWolf-19&theme=tokyonight)
-![Commit Langs](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DWolf-19&theme=tokyonight)
-
 ### Skills / Learning
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -37,7 +31,3 @@
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-### Email
-> [!IMPORTANT]
-> Don't email me with ads, spam, marketing offers, surveys and other stuff. My public email is created for important things.
